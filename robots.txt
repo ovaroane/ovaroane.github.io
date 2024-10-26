@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ovaroane.github.io/sitemap_index.ovaroane
